@@ -5,7 +5,6 @@
     "authors": ["Jack Lloyd", "Etienne Cimon", "See CREDITS.md for more."],
     "targetName": "botan_math",
     "targetType": "staticLibrary",
-    "targetPath": "build",
     "sourcePaths": ["source/botan_math/"]
 
 }
